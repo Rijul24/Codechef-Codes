@@ -1,0 +1,5 @@
+n , k =list(map(int , input().split()))
+string = input()
+k = list(map(int , input().split()))
+
+for idx in range(n):
