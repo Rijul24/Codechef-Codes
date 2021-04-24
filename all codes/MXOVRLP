@@ -1,0 +1,6 @@
+#max overlap
+T= int(input())
+while T!=0:
+	n = int(input()) #no of classes
+	m = int(input()) 
+	

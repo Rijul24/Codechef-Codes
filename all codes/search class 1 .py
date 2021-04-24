@@ -1,0 +1,1 @@
+li= [ int(x) for x in input().split() ] #shortcut to taking input of a list
